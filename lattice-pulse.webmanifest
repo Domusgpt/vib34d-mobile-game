@@ -1,12 +1,14 @@
 {
-  "name": "Lattice Pulse",
+  "name": "Lattice Pulse | Paul Phillips",
   "short_name": "Pulse",
-  "start_url": "./lattice-pulse.html",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#050018",
   "theme_color": "#050018",
-  "description": "Beat-driven lattice runner built on the VIB34D visualizer stack.",
+  "description": "Beat-driven 4D geometric mobile game. A Paul Phillips Manifestation from Clear Seas Solutions.",
   "orientation": "portrait",
+  "categories": ["games", "education", "entertainment"],
+  "lang": "en",
   "icons": [
     {
       "src": "./assets/icons/lattice-pulse-icon.svg",

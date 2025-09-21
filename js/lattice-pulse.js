@@ -1,3 +1,12 @@
+/**
+ * 🎮 Lattice Pulse Game Launcher
+ * A Paul Phillips Manifestation
+ *
+ * Beat-driven 4D geometric mobile game initialization
+ * Paul@clearseassolutions.com | "The Revolution Will Not be in a Structured Format"
+ * © 2025 Paul Phillips - Clear Seas Solutions LLC
+ */
+
 import { LatticePulseGame } from '../src/game/LatticePulseGame.js';
 
 const registerServiceWorker = () => {

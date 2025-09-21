@@ -1,3 +1,12 @@
+/**
+ * 🎮 Lattice Pulse Game - Core Game Engine
+ * A Paul Phillips Manifestation
+ *
+ * Beat-driven 4D geometric mobile game using WebGL and real-time mathematics
+ * Paul@clearseassolutions.com | "The Revolution Will Not be in a Structured Format"
+ * © 2025 Paul Phillips - Clear Seas Solutions LLC
+ */
+
 import { GameLoop } from './GameLoop.js';
 import { AudioService } from './audio/AudioService.js';
 import { ModeController } from './modes/ModeController.js';
